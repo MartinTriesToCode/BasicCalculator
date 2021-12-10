@@ -1,0 +1,6 @@
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/obj/Debug/BasicCalculator.csproj.AssemblyReference.cache
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/obj/Debug/BasicCalculator.csproj.CoreCompileInputs.cache
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/bin/Debug/BasicCalculator.exe
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/bin/Debug/BasicCalculator.pdb
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/obj/Debug/BasicCalculator.exe
+/Users/martinlundgren/Projects/BasicCalculator/BasicCalculator/obj/Debug/BasicCalculator.pdb
